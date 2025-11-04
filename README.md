@@ -91,7 +91,12 @@ You are then able to pick whihc typw of method you would like to use <br/>
 
 
 <h1>More Info</h1>
+<img src="https://i.imgur.com/ngsKEdj.png" height="80%" width="80%" alt="AutoReconF"/>
+<br/>
+<br/>
 This uses an env file and a default env file so that the script can write to them based on what the user enters for additional options <br/>
 Each script scans this env file and reads it to ensure that the users options are correctly being used <br/>
 The default file is what is used for the reset setting which then updated the regular env file <br/>
+
+
 
