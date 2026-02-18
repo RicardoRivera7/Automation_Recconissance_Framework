@@ -2,7 +2,7 @@
 
 <h1>Description</h1>
 
-This is a framework built to make initial recconissance of a machine or system quick and easy. Features the following tools: wfuzz for fuzzing, nmap for port scanning and host discovery, Deep Magic for information gathering about the system and related entities. <br/>
+This is a framework built to make initial reconnissance of a machine or system quick and easy. Features the following tools: wfuzz for fuzzing, nmap for port scanning and host discovery, Deep Magic for information gathering about the system and related entities. <br/>
 Each tool features options and allows for user input of target IPs and where to FUZZ. An additional options section is available, it displays current status of options, updates them and allows you to reset to default state. <br/>
 Additional options allows the user to toggle file output results, the file path to save them at, setting the preferred file name.
 
